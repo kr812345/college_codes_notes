@@ -131,7 +131,7 @@ const LandingPage = () => {
         <>
         <div className='h-screen w-screen bg-black text-white overflow-hidden relative'>
             <div className='fixed h-screen w-screen bg-gray-900 -z' hidden>
-                {/* <video id='vdo' className='h-full w-full object-cover' src={vdo} ></video> */}
+                <video id='vdo' className='h-full w-full object-cover' src={vdo} ></video>
             </div>
             <div className='w-screen h-[12%] flex justify-between px-8 py-5 not-sm:flex-col not-sm:h-[18%]'>
                 <img className='z-20 mb-8 w-16 h-16' src={logo} alt="Logo" />

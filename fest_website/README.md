@@ -1,8 +1,46 @@
-# React + Vite
+# FEST Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic festival website built with React and Vite.
 
-Currently, two official plugins are available:
+## Demo Video
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user/fest_website/assets/website_record.mp4
+
+## Features
+
+- Fast and responsive UI
+- Modern design
+- Real-time updates
+- Interactive components
+
+## Tech Stack
+
+- React
+- Vite
+- CSS/SCSS
+- JavaScript/TypeScript
+
+## Getting Started
+
+1. Clone the repository
+```bash
+git clone [repository-url]
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Run development server
+```bash
+npm run dev
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
